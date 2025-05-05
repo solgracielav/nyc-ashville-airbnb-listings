@@ -40,7 +40,7 @@ The goal is to understand what makes certain listings more appealing and visible
 - `room_typeShared`: OR = 4.73  
 - `near_tourist_area`: OR = 0.70 (30% less likely to be in high demand)
 
-### 🔷 Asheville Analysis – *Lori*
+### 🔷 Asheville Analysis – *L.F.*
 
 - Listings near natural attractions (e.g., Blue Ridge Parkway, Biltmore Estate) see higher review volume.
 - Demand in Asheville is **seasonal**, peaking in spring and fall.
